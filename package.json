@@ -1,0 +1,24 @@
+{
+  "name": "image-recognition",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "async-busboy": "^0.6.1",
+    "blueimp-canvas-to-blob": "^3.8.0",
+    "koa": "^2.3.0",
+    "koa-bodyparser": "^4.2.0",
+    "koa-cors": "^0.0.16",
+    "koa-static": "^4.0.1",
+    "normalize.css": "^7.0.0",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-scripts": "1.0.10",
+    "shortid": "^2.2.8"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
